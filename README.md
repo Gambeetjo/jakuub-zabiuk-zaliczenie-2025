@@ -13,9 +13,8 @@ Aby uruchomić tę grę na swoim komputerze, wykonaj poniższe kroki:
 1.  **Sklonuj repozytorium:**
     Otwórz terminal (lub Git Bash) i sklonuj projekt:
 
-
-    git https://github.com/Gambeetjo/jakuub-zabiuk-zaliczenie-2025.git
-    cd jakuub-zabiuk-zaliczenie-2025 # Przejdź do katalogu projektu
+    https://github.com/Gambeetjo/jakuub-zabiuk-zaliczenie-2025.git
+    cd jakuub-zabiuk-zaliczenie-2025 - Przejdź do katalogu projektu
    
 2.  **Skompiluj kod źródłowy:**
     Upewnij się, że masz zainstalowany kompilator C++ (np. GCC/MinGW). Następnie skompiluj aplikację nazywając projekt "Zgadywanka 2":
@@ -34,5 +33,22 @@ Aby uruchomić tę grę na swoim komputerze, wykonaj poniższe kroki:
         ./zgadywanka 2
        
 
-Gotowe! Możesz teraz grać w "Zgadywankę".
+Gotowe! Możesz teraz grać w "Zgadywankę 2".
 
+Zawartość Repozytorium Aplikacji "Zgadywanka 2"
+
+1. folder
+main.cpp
+
+Opis: To jest główny plik źródłowy Twojej aplikacji. Zawiera cały kod C++ dla gry w zgadywanie liczb, który napisałeś. Jest to serce Twojego projektu.
+Cel: Kompilator używa tego pliku do stworzenia pliku wykonywalnego.
+
+2. README.md:
+
+Opis: To jest plik dokumentacji projektu. 
+Cel: Jest to krótki opis aplikacji, instrukcje dotyczące kompilacji i uruchomienia, informacje o autorze, a także wszelkie inne istotne uwagi. 
+
+3. Pliki Code::Blocks
+   
+*.cbp    - Plik projektu Code::Blocks
+*.depend - Zależności projektu
