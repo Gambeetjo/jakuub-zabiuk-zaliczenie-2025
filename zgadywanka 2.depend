@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1751284135 source:c:\users\ang\documents\programowanie\zgadywanka 2\zgadywanka 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<limits>
+
