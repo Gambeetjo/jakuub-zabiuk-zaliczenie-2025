@@ -31,7 +31,7 @@ Aby uruchomić tę grę na swoim komputerze, wykonaj poniższe kroki:
         
       * **macOS/Linux:**
         
-        ./zgadywanka
+        ./zgadywanka 2
        
 
 Gotowe! Możesz teraz grać w "Zgadywankę".
