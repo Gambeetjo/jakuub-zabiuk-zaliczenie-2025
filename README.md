@@ -16,7 +16,7 @@ Aby uruchomić tę grę na swoim komputerze, wykonaj poniższe kroki:
     https://github.com/Gambeetjo/jakuub-zabiuk-zaliczenie-2025.git - Przejdź do katalogu projektu
    
 2.  **Skompiluj kod źródłowy:**
-    Upewnij się, że masz zainstalowany kompilator C++ (np. GCC/MinGW). Następnie skompiluj aplikację nazywając projekt "Zgadywanka 2":
+    Upewnij się, że masz zainstalowany kompilator C++ (np. Code::Blocks/GCC/MinGW). Następnie skompiluj aplikację nazywając projekt "Zgadywanka 2":
     
     main.cpp 
 
