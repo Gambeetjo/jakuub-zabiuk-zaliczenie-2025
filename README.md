@@ -39,7 +39,7 @@ Zawartość Repozytorium Aplikacji "Zgadywanka 2"
 1. folder
 main.cpp
 
-Opis: To jest główny plik źródłowy Twojej aplikacji. Zawiera cały kod C++ dla gry w zgadywanie liczb, który napisałeś. Jest to serce Twojego projektu.
+Opis: To jest główny plik źródłowy Twojej aplikacji. Zawiera cały kod C++ dla gry w zgadywanie liczb, który napisałeś. Jest to serce całego projektu.
 
 Cel: Kompilator używa tego pliku do stworzenia pliku wykonywalnego.
 
@@ -47,7 +47,7 @@ Cel: Kompilator używa tego pliku do stworzenia pliku wykonywalnego.
 
 Opis: To jest plik dokumentacji projektu. 
 
-Cel: Jest to krótki opis aplikacji, instrukcje dotyczące kompilacji i uruchomienia, informacje o autorze, a także wszelkie inne istotne uwagi. 
+Cel: Jest to krótki opis aplikacji, instrukcje dotyczące kompilacji i uruchomienia, informacje o autorze, a także wszelkie inne istotne uwagi. Właśnie go czytasz :)
 
 3. Pliki Code::Blocks
    
